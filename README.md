@@ -15,11 +15,11 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Program:
 ```
+/*
 Program to implement the SVM For Spam Mail Detection..
 Developed by : DEEPAK RAJ S
 RegisterNumber : 212222240023
-```
-```
+*/
 import chardet 
 file = "C:/Users/SEC/Desktop/spam.csv"
 with open(file,'rb') as rawdata:
